@@ -1,0 +1,6 @@
+{
+  "name": "VoxMorph: AI Voice Converter",
+  "description": "A professional audio application that uses Gemini AI to convert voice characteristics while maintaining original timing and rhythm.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["audio_processing", "ai_voice_conversion"]
+}
